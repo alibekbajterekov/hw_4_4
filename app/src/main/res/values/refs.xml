@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="big_circles_gradient" />
+    <drawable name="circles_gradient">dasd</drawable>
+    <drawable name="avatar" />
+    <drawable name="padlock" />
+    <drawable name="gradient_button" />
+</resources>
